@@ -8,7 +8,7 @@
 
 class Config {
 
-    protected $_api_token = '99c49762b66ddc1005e06168c25f6337';
+    protected $_api_token = '***********************';
 
     protected $_api_base_url = 'https://api.chatwork.com/';
 
